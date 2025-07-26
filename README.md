@@ -22,7 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div
 
+
 ## 🚀 Featured Projects
+
    https://github.com/studentpragati/Bank_Ioan_Power_BI_Dashboard-
    
    https://github.com/studentpragati/Google_trends_dashboard_Power-BI
