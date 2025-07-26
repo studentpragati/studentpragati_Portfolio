@@ -12,22 +12,34 @@
 </div>
 
 ## 🛠️ Tools & Technologies
-<img src="https://img.shields.io/badge/AI%2FML-blue?style=for-the-badge&logo=github" height="25" style="margin:8px"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" height="25" style="margin:8px"/>
+
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25" style="margin:8px"/>
-  <img src="https://img.shields.io/badge/Web%20Dev-007ACC?style=for-the-badge" height="25" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" height="25" style="margin:8px"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi" height="25" style="margin:8px"/>
-</p>
-
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif"  />
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div
 
+## 🚀 Featured Projects
+   https://github.com/studentpragati/Bank_Ioan_Power_BI_Dashboard-
+   https://github.com/studentpragati/Google_trends_dashboard_Power-BI
+   https://github.com/studentpragati/Youtube_Analysis_Dashboard
+   https://github.com/studentpragati/Paris_Olympic_2024_PowerBI
+   https://github.com/studentpragati/Blinkit_Grocery_Excel-Dashboard
+
+### 🔗 Connect With Me
+    <div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/studentpragati/studentpragati/output/snake.svg" alt="Snake animation" />
+
+###
