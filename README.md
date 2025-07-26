@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=studentpragati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=studentpragati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -24,8 +24,9 @@
 </div
 
 
+
 ## 🚀 Featured Projects
-<p >
+
    https://github.com/studentpragati/Bank_Ioan_Power_BI_Dashboard-
    
    https://github.com/studentpragati/Google_trends_dashboard_Power-BI
@@ -35,6 +36,8 @@
    https://github.com/studentpragati/Paris_Olympic_2024_PowerBI
    
    https://github.com/studentpragati/Blinkit_Grocery_Excel-Dashboard
+
+   
 
 ### 🔗 Connect With Me
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
