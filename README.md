@@ -23,10 +23,7 @@
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div
-
-
-
-
+ <hr /> 
 
 ## 🚀 Featured Projects
 
@@ -40,7 +37,7 @@
    https://github.com/studentpragati/Paris_Olympic_2024_PowerBI
    
    https://github.com/studentpragati/Blinkit_Grocery_Excel-Dashboard
-
+ <hr /> 
    
 ### 🔗 Connect With Me
  
