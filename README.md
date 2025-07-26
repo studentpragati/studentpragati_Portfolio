@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif" width="600" height="450" />
+
+
 <h1 align="center">Hi 👋, I'm Pragati Munde
 
 ## 👨‍💻 About Me
@@ -52,21 +55,6 @@
   </a>
 </div>
 
- <hr /> 
-
-###
-
-<div align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="http://www.linkedin.com/in/pragati-munde-229381310" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/certificates/iframe/0ec61b1d5cb6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
 
 <hr /> 
 
