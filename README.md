@@ -56,4 +56,4 @@
 
  <hr /> 
  
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/studentpragati/studentpragati/output/github-contribution-grid-snake.svg" />
