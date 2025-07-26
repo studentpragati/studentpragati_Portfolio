@@ -24,13 +24,16 @@
 
 ## 🚀 Featured Projects
    https://github.com/studentpragati/Bank_Ioan_Power_BI_Dashboard-
+   
    https://github.com/studentpragati/Google_trends_dashboard_Power-BI
+   
    https://github.com/studentpragati/Youtube_Analysis_Dashboard
+   
    https://github.com/studentpragati/Paris_Olympic_2024_PowerBI
+   
    https://github.com/studentpragati/Blinkit_Grocery_Excel-Dashboard
 
 ### 🔗 Connect With Me
-    <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
