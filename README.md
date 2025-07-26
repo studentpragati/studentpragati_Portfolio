@@ -54,4 +54,8 @@
 
  <hr /> 
  
-<img src="https://raw.githubusercontent.com/studentpragati/studentpragati/output/github-contribution-grid-snake.svg" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/studentpragati/studentpragati/output/snake.svg" alt="Snake animation" />
+
+###
