@@ -29,19 +29,7 @@
 </div
  <hr /> 
 
-## 🚀 Featured Projects
 
-
-   https://github.com/studentpragati/Bank_Ioan_Power_BI_Dashboard-
-   
-   https://github.com/studentpragati/Google_trends_dashboard_Power-BI
-   
-   https://github.com/studentpragati/Youtube_Analysis_Dashboard
-   
-   https://github.com/studentpragati/Paris_Olympic_2024_PowerBI
-   
-   https://github.com/studentpragati/Blinkit_Grocery_Excel-Dashboard
- <hr /> 
    
 ### 🔗 Connect With Me
  
