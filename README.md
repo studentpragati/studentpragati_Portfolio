@@ -56,5 +56,11 @@
 
  <hr /> 
  
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/studentpragati/studentpragati/output/snake.svg" alt="Snake animation" />
+
+###
 
