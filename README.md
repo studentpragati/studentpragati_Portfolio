@@ -47,4 +47,8 @@
 
 <hr /> 
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+<!-- Visitor Badge -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Codewithmaths.Codewithmaths)
 
