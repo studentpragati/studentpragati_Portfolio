@@ -1,4 +1,4 @@
-<p align="center">
+Jim<p align="center">
   <img src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif" width="300" height="300" />
 </p>
 
@@ -48,7 +48,5 @@
 <hr /> 
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
-<!-- Visitor Badge -->
 
-![visitors](https://visitor-badge.glitch.me/badge?
 
