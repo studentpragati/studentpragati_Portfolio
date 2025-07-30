@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif" width="300" height="300" />
-</p>
-
 
 <h1 align="center">Hi 👋 I'm Pragati Munde
 
