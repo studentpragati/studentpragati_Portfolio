@@ -1,4 +1,7 @@
-https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif
+<div align="center">
+  <img height="200" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"  />
+</div>
+
 <h2 align="left">Hi 👋! , I am Pragati</h2>
 
 ## 👨‍💻 About Me
