@@ -2,11 +2,11 @@
   <img height="200" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"  />
 </div>
 
-<h2 align="left">Hi 👋! , I am Pragati</h2>
+<h2 align="Center">Hi 👋! , I am Pragati</h2>
 
 ## 👨‍💻 About Me
  I'm a Data Analyst  Analytical thinker with hands-on experience in Excel, Power BI , SQL And Python driven by curiosity and a passion for turning raw data into powerful insights. Skilled in building intuitive solutions—from optimizing database logic to designing dynamic dashboards. Known for persistence, precision, and problem-solving across technical challenges. Actively seeking data analytics roles where I can contribute immediately and grow continuously .
-###
+<hr />
 
 ## 📊 GitHub Stats 
 <div align="center">
@@ -14,7 +14,7 @@
   <img src="https://streak-stats.demolab.com?user=studentpragati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+<hr />
 
 ## 🛠️ Tools & Technologies
 <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="30" style="margin:10px"/>
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+<hr />
 
 ### 🔗 Connect With Me
 <div align="left">
@@ -41,10 +41,10 @@
   </a>
 </div>
 
-###
+<hr />
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/studentpragati/studentpragati/output/snake.svg" alt="Snake animation" />
 
-###
+<hr />
