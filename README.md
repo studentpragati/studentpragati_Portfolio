@@ -2,7 +2,7 @@
   <img height="200" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"  />
 </div>
 
-<h2 align="Center">Hi 👋! , I am Pragati
+ align="Center">Hi 👋! , I am Pragati
 <hr />
 
 ## 👨‍💻 About Me
