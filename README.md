@@ -17,19 +17,16 @@
 
 ## 🛠️ Tools & Technologies
 
-  <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="25" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="30" style="margin:10px"/>
   
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" height="25" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" height="30" style="margin:10px"/>
   
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi" height="25" style="margin:8px"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi" height="30" style="margin:10px"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="15" />
+  <img width="20" />
 
-
-
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <hr />
 
 ### 🔗 Connect With Me
