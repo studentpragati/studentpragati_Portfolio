@@ -1,4 +1,4 @@
-h<2 <div align="center">
+<h2 <div align="center">
   <img height="200" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"  />
 </div>
 
