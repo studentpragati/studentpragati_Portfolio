@@ -2,7 +2,8 @@
   <img height="200" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif"  />
 </div>
 
-<h2 align="Center">Hi 👋! , I am Pragati</h2>
+<h2 align="Center">Hi 👋! , I am Pragati
+<hr />
 
 ## 👨‍💻 About Me
  I'm a Data Analyst  Analytical thinker with hands-on experience in Excel, Power BI , SQL And Python driven by curiosity and a passion for turning raw data into powerful insights. Skilled in building intuitive solutions—from optimizing database logic to designing dynamic dashboards. Known for persistence, precision, and problem-solving across technical challenges. Actively seeking data analytics roles where I can contribute immediately and grow continuously .
