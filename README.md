@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif" width="300" height="300" />
 
 <h1 align="center">Hi 👋 I'm Pragati Munde
-
 ## 👨‍💻 About Me
  I'm a Data Analyst  Analytical thinker with hands-on experience in Excel, Power BI , SQL And Python driven by curiosity and a passion for turning raw data into powerful insights. Skilled in building intuitive solutions—from optimizing database logic to designing dynamic dashboards. Known for persistence, precision, and problem-solving across technical challenges. Actively seeking data analytics roles where I can contribute immediately and grow continuously .
 
