@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge" height="30" style="margin:10px"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" height="30" style="margin:10px"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi" height="30" style="margin:10px"/>
-   💻 Python&nbsp;&nbsp;&nbsp;🗃️ SQL
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin:12px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:12px"/>
+
 
 ### 🔗 Connect With Me
  
