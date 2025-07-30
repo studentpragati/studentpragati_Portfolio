@@ -12,7 +12,7 @@
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=studentpragati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=studentpragati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<hr />
 
 
 ## 🛠️ Tools & Technologies
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi" height="30" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin:12px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin:12px"/>
-
+   <hr />
 
 ### 🔗 Connect With Me
  
