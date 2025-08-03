@@ -5,7 +5,7 @@
  <h2 align="center">Hi 👋! , I am Pragati</h2>
 
 ## 👨‍💻 About Me
- I'm a Data Analyst  Analytical thinker with hands-on experience in Excel, Power BI , SQL And Python driven by curiosity and a passion for turning raw data into powerful insights. Skilled in building intuitive solutions—from optimizing database logic to designing dynamic dashboards. Known for persistence, precision, and problem-solving across technical challenges. Actively seeking data analytics roles where I can contribute immediately and grow continuously .
+ Analytical thinker with hands-on experience in Excel and Power BI, with a passion for turning raw data into powerful insights. Driven by curiosity and a desire to build intuitive data visualizations and dynamic dashboards. Currently enhancing skills in SQL and Python to expand data manipulation and automation capabilities. Actively seeking data analytics roles where I can contribute to immediately and grow continuously."
 <hr />
 
 ## 📊 GitHub Stats 
