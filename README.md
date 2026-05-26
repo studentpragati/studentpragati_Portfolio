@@ -34,7 +34,7 @@ Hi, I'm **[Pragati Munde]** — a Data Analyst skilled in transforming raw data 
 
 Analyzed 847 YouTube channels across India, Russia, and USA. Identified T-Series as the top channel (0.23T views), "Shows" and "Trailers" as highest subscriber categories, and Animals as the most profitable channel type ($2.8M/month).
 
-🔗 [View Project](./01_YouTube_Analytics/)
+🔗 [View Project](github.com/studentpragati/YouTube-Channel-Performance-Monetization-Analysis.git)
 
 ---
 
@@ -43,7 +43,7 @@ Analyzed 847 YouTube channels across India, Russia, and USA. Identified T-Series
 
 Analyzed full-year 2023 order data. Found women drive 52% of sales, 95% delivery success rate, and Karnataka, Maharashtra, UP as top 3 revenue states. Amazon dominates as the primary channel.
 
-🔗 [View Project](./02_Vrinda_Store/)
+🔗 [View Project](github.com/studentpragati/Vrinda-Store-E-Commerce-Sales-Analysis-2023.git)
 
 ---
 
@@ -52,7 +52,7 @@ Analyzed full-year 2023 order data. Found women drive 52% of sales, 95% delivery
 
 Tracked 8,956 keyword searches over 7 days. "Web Developer" leads at 31%, "Data Analyst" at 27%. Identified June 18–22 as peak job-search window globally.
 
-🔗 [View Project](./03_Google_Trends/)
+🔗 [View Project](github.com/studentpragati/Job-Market-Keyword-Trend-Analysis-using-Google-Trends.git)
 
 ---
 
@@ -61,7 +61,7 @@ Tracked 8,956 keyword searches over 7 days. "Web Developer" leads at 31%, "Data 
 
 Analyzed $6,98,812 in sales across 3 locations. Peak hours: 9–11 AM. Barista Espresso is the top product. Hell's Kitchen and Lower Manhattan outperform Astoria in footfall.
 
-🔗 [View Project](./04_Coffee_Shop/)
+🔗 [View Project](github.com/studentpragati/Coffee-Shop-Multi-Location-Sales-Operations-Analysis.git)
 
 ---
 
@@ -70,7 +70,7 @@ Analyzed $6,98,812 in sales across 3 locations. Peak hours: 9–11 AM. Barista E
 
 Analyzed 3,203 orders (2012–2014). Chairs and Phones are top categories. Colorado, Arizona, Oregon show negative profit. Business at 72.5% of $1M target — 27.5% gap identified.
 
-🔗 [View Project](./05_Amazon_Sales/)
+🔗 [View Project](github.com/studentpragati/Amazon-Sales-Performance-Regional-Profit-Analysis.git)
 
 ---
 
@@ -80,7 +80,7 @@ Analyzed 3,203 orders (2012–2014). Chairs and Phones are top categories. Color
 
 Analyzed 1,028 loan applications ($18.9M funded). Bad loan rate: 30.3% = $6M exposure risk. MOM growth: +44.1%. 3-page report with Summary, Overview, and Details pages.
 
-🔗 [View Project](./08_Bank_Loan/)
+🔗 [View Project](github.com/studentpragati/Bank-Loan-Portfolio-Health-Risk-Monitoring-Report.git)
 
 ---
 
@@ -89,7 +89,7 @@ Analyzed 1,028 loan applications ($18.9M funded). Bad loan rate: 30.3% = $6M exp
 
 Analyzed Virat Kohli's cricket career (2008–2022). 24K total runs, 77 centuries, 45.95 avg across 516 matches. Career peak: 2016–2018. Most productive against Australia.
 
-🔗 [View Project](./09_Virat_Kohli/)
+🔗 [View Project](github.com/studentpragati/Virat-Kohli-Career-Statistics-Performance-Analysis.git)
 
 ---
 
